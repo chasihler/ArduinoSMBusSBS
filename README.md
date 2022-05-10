@@ -1,8 +1,8 @@
 # ArduinoSMBusSBS
 Read Smart Battery Data (Smart Battery System Specification)
 
-I needed a solution to reading data out of a battery. There are many more registers than described and I have you some basics. 
+This was my solution to read data out of a battery. There are many more registers than described but I've provided a sample of what I feel are the basics. 
 
-I haven't tested every bit of this myself. This code was used for testing before integrating into a competition robot.
+This code was used for testing before integrating into a competition robot.
 
 For more reading: http://sbs-forum.org/specs/sbdat110.pdf
